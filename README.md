@@ -1,5 +1,5 @@
-- 👋 Hi there, I’m @MandeepDeveloper.
-- 👀 I’m interested in doing Coding.
+- 👋 Hi there, I’m @MandeepDeveloper. 
+- 👀 I’m interested in doing Coding (Beginner). 
 - 🌱 I’m currently learning python, C++.
 - 💞️ I’m looking to collaborate with anyone on GitHub.
 - 📫 How to reach me:
