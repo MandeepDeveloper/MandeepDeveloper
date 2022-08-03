@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @MandeepDeveloper. 
 - 👀 I’m interested in doing Coding (Beginner). 
-- 🌱 I’m currently learning python, C++.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate with anyone on GitHub.
 - 📫 How to reach me:
 Instagram: https://instagram.com/mandeepkaur.32?igshid=YmMyMTA2M2Y
