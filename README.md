@@ -2,9 +2,6 @@
 - 👀 I’m interested in doing Coding (Beginner). 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate with anyone on GitHub.
-- 📫 How to reach me:
-Instagram: https://instagram.com/mandeepkaur.32?igshid=YmMyMTA2M2Y
-E-mail: mandeepkaur77732@gmail.com
 - 🌌 I love to explore new things 
 - ✨ Pursuing my dream ⛳
 
